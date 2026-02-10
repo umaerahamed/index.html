@@ -23,7 +23,7 @@
   <br><br>
 
   🐙 GitHub: 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/umaerahamed" target="_blank">
     github.com/YOUR_GITHUB_USERNAME
   </a>
 </p>
