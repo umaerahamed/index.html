@@ -1,5 +1,5 @@
 # index.html
-<h1 align="center">Hi 👋, I'm Umaer</h1>
+<h1 align="center">Hi 👋, I'm Umaer Ahamed</h1>
 <h3 align="center">Java Full Stack Developer</h3>
 
 <hr>
